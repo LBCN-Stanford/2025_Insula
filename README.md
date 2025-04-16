@@ -1,2 +1,2 @@
 # 2025_Insula
-The custom codes for the main analyses and supporting data
+The custom codes for the main analyses, behavior data, and trial information for publication "Direct Interactions Between the Human Insula and Hippocampus During Memory Encoding"
