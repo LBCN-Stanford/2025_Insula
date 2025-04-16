@@ -1,0 +1,8 @@
+Annotations for trialinfo (trial information) table 
+*stim: words for stimulus
+*valence: originally defined valence
+*allonsets: timestamps of stimulus onset (second, time locked to the recording onset)
+*emo_time: timestamps of valence judgement onset (second, time locked to the recording onset)
+*emo_rate: valence judgements. 7: (+3); 6: (+2); 5: (+1); 4: (0); 3: (-1); 2: (-2); 1: (-3)
+*emo_RT: reaction times for judgements (second)
+
