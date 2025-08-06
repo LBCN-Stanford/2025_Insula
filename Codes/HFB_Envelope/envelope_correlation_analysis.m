@@ -3,9 +3,7 @@ data_root = './HFB_envelope';
 output_root = './HFB_envelope_corr';
 
 
-subject_names =  {'S21_172_KS','S22_177_JM',...
-    'S22_183_CR','S22_185_TW','S22_190_AS','S22_191_KM','S23_199_GB','S23_201_JG',...
-    'S23_205_LLC','S23_207_SO','S23_211_SS','S23_212_JM'};   %
+subject_names =  {...};   %
 
 % nsec_crop: seconds to crop to avoid edge artifacts.
 nsec_crop = 50;
@@ -72,5 +70,6 @@ for sbj = 1 : length(subject_names)
     end%blk
 
 end%sbj
+
 
 
